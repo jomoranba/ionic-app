@@ -1,0 +1,67 @@
+{
+  "users": [
+    {
+      "id": 300620212039,
+      "firstName": "Renato",
+      "lastName": "De la Rosa",
+      "email": "rdelarosa@gmail.com",
+      "password": "TmV3SG9yaXpvbnMyMDIx"
+    },
+    {
+      "firstName": "Mario",
+      "lastName": "Bros",
+      "email": "mbros@gmail.com",
+      "password": "MTIzNDU2",
+      "id": 300620212040
+    },
+    {
+      "firstName": "Pablo",
+      "lastName": "Escobar",
+      "email": "pescobar@gmail.com",
+      "password": "MTIzNDU2",
+      "id": 300620212041
+    },
+    {
+      "firstName": "Jose",
+      "lastName": "Moran",
+      "email": "jmoran@gmail.com",
+      "password": "MTIzNDU2",
+      "id": 300620212042
+    },
+    {
+      "firstName": "Pedro",
+      "lastName": "Aponte",
+      "email": "paponte@gmail.com",
+      "password": "MTIzNDU2",
+      "id": 300620212043
+    },
+    {
+      "firstName": "dad",
+      "lastName": "sdadad",
+      "email": "asd",
+      "password": "MTIyMQ==",
+      "id": 300620212044
+    },
+    {
+      "firstName": "dasd",
+      "lastName": "asda",
+      "email": "dada@gmail.com",
+      "password": "MTIzNDU2",
+      "id": 300620212045
+    },
+    {
+      "firstName": "a",
+      "lastName": "sdfsd",
+      "email": "das@gmail.com",
+      "password": "MTIz",
+      "id": 300620212046
+    },
+    {
+      "firstName": "dsadse4",
+      "lastName": "adas",
+      "email": "qqq@gmail.com",
+      "password": "MTIz",
+      "id": 300620212047
+    }
+  ]
+}
